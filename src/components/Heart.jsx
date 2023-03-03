@@ -1,6 +1,6 @@
 import "../assets/css/galeria.css";
 
-export default function Heart({ filled , ...props }) {
+export default function Heart({ filled , ...props }) {    //...props para poder asignarle una clase al Componente cuando se usa en Galeria
     return (
         <>
             <svg width="40px" viewBox="0 0 24 24" {...props}>

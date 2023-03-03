@@ -26,3 +26,6 @@ export default function Galeria() {
         </div>
     );
 }
+
+
+//Heart se le puede agregar clase por {...props} en componente Heart.jsx
