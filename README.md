@@ -6,5 +6,5 @@ In Home all the images are displayed and in Favorites those that the user has li
 
 You can visit the deployed page in the next [Link](https://cozy-tapioca-4a1b27.netlify.app/)
 
-This react project was created with Vite [Vite](https://vitejs.dev/)
+This react project was created with [Vite](https://vitejs.dev/)
 
